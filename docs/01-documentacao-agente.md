@@ -84,7 +84,7 @@ flowchart TD
 | Componente           | Descrição                                                  |
 | -------------------- | ---------------------------------------------------------- |
 | Interface            | Aplicação desenvolvida em **Streamlit**                    |
-| LLM                  | **GPT4All** via **Nomic AI**                               |
+| LLM                  | **Ollama(Local)**                                |
 | Base de Conhecimento | Arquivos **JSON/CSV** com conteúdos de educação financeira |
 | Validação            | Mecanismos para reduzir alucinações e respostas incorretas |
 
