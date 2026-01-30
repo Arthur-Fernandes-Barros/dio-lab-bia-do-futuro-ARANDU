@@ -98,7 +98,6 @@ flowchart TD
 * ✅ Evita recomendações financeiras avançadas ou investimentos específicos
 * ✅ Quando não possui certeza, admite a limitação
 * ✅ Linguagem educativa, não prescritiva
-* ⬜ Respostas com indicação da origem da informação (futuro aprimoramento)
 
 ### Limitações Declaradas
 
